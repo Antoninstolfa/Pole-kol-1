@@ -1,0 +1,12 @@
+D:\Antonín Štolfa\Programování\C#\Pole úkol 1\Pole úkol 1\bin\Debug\Pole úkol 1.exe.config
+D:\Antonín Štolfa\Programování\C#\Pole úkol 1\Pole úkol 1\bin\Debug\Pole úkol 1.exe
+D:\Antonín Štolfa\Programování\C#\Pole úkol 1\Pole úkol 1\bin\Debug\Pole úkol 1.pdb
+D:\Antonín Štolfa\Programování\C#\Pole úkol 1\Pole úkol 1\obj\Debug\Pole úkol1.csproj.AssemblyReference.cache
+D:\Antonín Štolfa\Programování\C#\Pole úkol 1\Pole úkol 1\obj\Debug\Pole_úkol_1.Menu.resources
+D:\Antonín Štolfa\Programování\C#\Pole úkol 1\Pole úkol 1\obj\Debug\Pole_úkol_1.Properties.Resources.resources
+D:\Antonín Štolfa\Programování\C#\Pole úkol 1\Pole úkol 1\obj\Debug\Pole_úkol_1.Ukol1.resources
+D:\Antonín Štolfa\Programování\C#\Pole úkol 1\Pole úkol 1\obj\Debug\Pole úkol1.csproj.GenerateResource.cache
+D:\Antonín Štolfa\Programování\C#\Pole úkol 1\Pole úkol 1\obj\Debug\Pole úkol1.csproj.CoreCompileInputs.cache
+D:\Antonín Štolfa\Programování\C#\Pole úkol 1\Pole úkol 1\obj\Debug\Pole úkol 1.exe
+D:\Antonín Štolfa\Programování\C#\Pole úkol 1\Pole úkol 1\obj\Debug\Pole úkol 1.pdb
+D:\Antonín Štolfa\Programování\C#\Pole úkol 1\Pole úkol 1\obj\Debug\Pole_úkol_1.Ukol2.resources
